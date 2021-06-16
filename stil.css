@@ -1,0 +1,33 @@
+
+p {
+	color: black;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lightblue;
+	padding: 10px;
+	
+}
+
+h1, h2 {
+	color: chocolate;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia "serif";
+	
+}
+body {
+	
+	background-image:  url("slike/k.png");
+	
+	
+}
+
+a {
+	color: black;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia "serif";
+	
+}
+img {
+	height: 500px;
+	
+}
